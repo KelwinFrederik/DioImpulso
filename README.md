@@ -1,8 +1,10 @@
 # Bootcamp DIO - IMPULSO
 `Repositório criado para o desafio Git.`
 ----
-  <img src="Assets\KelwinAlves.jpeg" alt="Kelwin Alves" style="zoom:10%;" align:center/>
-----
+
+<img src="Assets\KelwinAlves.jpeg" alt="Kelwin Alves" width="160em" style="border-radius:50px;" align="center"/>
+
+
 ### Módulos 
 
 > Pensamento Computacional  ✔ 
