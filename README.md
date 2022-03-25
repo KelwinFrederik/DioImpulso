@@ -1,7 +1,7 @@
 # Bootcamp DIO - IMPULSO
 `Repositório criado para o desafio Git.`
 ----
-  ![Kelwin Alves]()
+  <img src="Assets\KelwinAlves.jpeg" alt="Kelwin Alves" style="zoom:10%;" align:center/>
 ----
 ### Módulos 
 
