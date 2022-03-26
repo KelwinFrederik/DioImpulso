@@ -1,0 +1,39 @@
+body{
+    max-width: 1024px;
+    min-width: 660PX;
+    font-family: sans-serif;
+    margin: 10px auto;
+    color: gainsboro;
+    background-image: url("https://mesaderpg.com.br/wp-content/uploads/2020/10/tormenta-rpg.jpg");
+}
+
+section{
+    margin:10px;
+    padding: 10px;
+    Border: 1px gainsboro solid;
+    border-radius: 15px;
+    background-color: #333333de;
+}
+
+input[type="text"]{
+    width: 18em;
+}
+
+.Label-input{
+    padding-right: 1rem;
+    padding-left: 0.5rem;
+}
+
+fieldset{
+    margin-top: 5px
+}
+
+#section1{
+    text-align: center;
+}
+
+#buttonFinalizar{
+    display: flex;
+    align-self: center;
+    margin:5px auto;
+}

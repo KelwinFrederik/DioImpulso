@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link href="jquery-ui-1.13.1/jquery-ui.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="index.css"/>   
+
+    <title> Personagem </title>
+</head>
+<body>
+    <section id="section1">
+        <h2> Monte Seu Personagem </h2>
+        <p>Para montar seu personagem preencha os campos abaixo.</p>
+    </section>
+
+    <section>
+        <fieldset>
+            <legend>Dados Pessoais</legend>
+            <table align="center">
+                <tr>
+                    <td><span class="Label-input">Como se chamará?</span></td>
+                    <td><input id="autocomplete" type="text" placeholder="Digite o nome do personagem"/></td>
+                    <td><span class="Label-input">Qual a Idade?</span></td>
+                    <td><input id="idade" type="number" placeholder="Digite a idade"/></td>
+                </tr>
+                <tr>
+                    <td><span class="Label-input">Qual o sexo?</span></td>
+                    <td>
+                        <div id="radioset">
+                            <label for="masculino">Masculino</label>
+                            <input id="masculino" name="sexo" type="radio"/>
+                            <label for="feminino">Feminino</label>
+                            <input id="feminino" name="sexo" type="radio"/>
+                        </div>
+                    </td>
+                    <td><span class="Label-input">Qual a altura?</span></td>
+                    <td><input id="altura" type="number" placeholder="Digite a altura"/></td>
+                </tr>
+            </table>
+        </fieldset>
+
+        <fieldset>
+            <legend> Raça </legend>
+            <div id="tabs">
+                <ul>
+                    <li><a href="#Humano">Humano</a></li>
+                    <li><a href="#Anao">Anão</a></li>
+                    <li><a href="#Elfo">Elfo</a></li>
+                    <li><a href="#MeioOrc">Meio Orc</a></li>
+                </ul>
+                <div id="Humano">Costumam apresentar alta versatilidade, sendo uma das raças que dá maior liberdade.</div>
+                <div id="Anao">Os anões são seres pequenos e robustos, rabugentos e teimosos. Normalmente ostentam uma longa barba, símbolo de poder, força, honra e orgulho racial.</div>
+                <div id="Elfo">Os elfos são criaturas mágicas, normalmente ligadas à beleza da vida, à arte, e a um sentimento de saudade e reivindicação.</div>
+                <div id="MeioOrc">Essa raça é o resultado dos filhos de orcs com humanos, de vez em quando tribos orcs e reinos humanos formam alianças e acabam tendo um caso ou outro.</div>
+            </div>
+        </fieldset>
+
+        <fieldset>
+            <legend>Classe</legend>
+            <div id="accordion">
+                <h3>Mago</h3>
+                <div>
+                    <p>O mago é uma classe arcana, possuem o visual característico como mantos compridos, barbas longas e brancas, um chapéu pontudo na cabeça e um cajado na mão. A forma com que os magos lidam com a magia é após conjurar um efeito mágico, a magia some da mente do mago e ele precisa estudar novamente seu livro de magias para poder conjurá-la novamente. Esta forma de magia é conhecida como o sistema vanciano de magia. Por dependerem de seus grimórios para conjurar suas magias, os magos são vistos como os eruditos.</p>
+                    <small><a href="https://www.rederpg.com.br/2019/12/01/dd-5a-edicao-jogando-com-classe-mago/" target="_bank"> Retirado e adaptado de REDRPG </a></small>
+                </div>
+                <h3>Guerreiro</h3>
+                <div>
+                    <p>O guerreiro remete a imagem icônica do herói em armadura empunhando sua arma contra um inimigo aparentemente mais poderoso que ele.O que o torna especial é a sua habilidade de lutar com armas. Enquanto o bárbaro usa a fúria para aumentar sua força e se impor diante do inimigo, o guerreiro utiliza-se de técnicas de luta praticadas a exaustão para antever os movimentos do inimigo e contra-atacar de maneira adequada. O guerreiro pode dedicar sua vida a uma única arma até se tornar um mestre, ou pode treinar diferentes estilos para surpreender seu inimigo.</p>
+                    <small><a href="https://www.rederpg.com.br/2018/12/02/dd-5a-edicao-jogando-com-classe-guerreiro/" target="_bank"> Retirado e adaptado de REDRPG </a></small>
+                </div>
+                <h3>Ladino</h3>
+                <div>
+                    <p>À primeira vista, o nome dessa classe pode induzir o jogador a achar que se trata de uma classe para personagens exclusivamente desonestos, mas não é bem o caso. Não que isso esteja muito longe da verdade, uma vez que o ladino usa artimanhas e trapaças para atingir seus objetivos, mas nem por isso ele precisa ser maligno. O que define o ladino é a forma como ele usa as habilidades a seu dispor, Alguns podem preferir se especializar nas habilidades de furtividade e enganação, outros podem preferir as habilidades de roubo, enquanto outros podem favorecer as habilidades para explorar ruínas abandonadas e evitar armadilhas.</p>
+                    <small><a href="https://www.rederpg.com.br/2019/06/09/dd-5a-edicao-jogando-com-classe-ladino/" target="_bank"> Retirado e adaptado de REDRPG </a></small>
+                </div>
+            </div>
+        </fieldset>
+
+        <fieldset>
+            <Button id="buttonFinalizar"> FINALIZAR </Button>
+        </fieldset>
+    </section>
+
+    <script src="jquery-ui-1.13.1/external/jquery/jquery.js"></script>
+    <script src="jquery-ui-1.13.1/jquery-ui.min.js"></script>
+    <script src="index.js"></script>
+</body>
+</html>
