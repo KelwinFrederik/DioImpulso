@@ -19,9 +19,10 @@
 >
 > Criação repositório DIO - IMPULSO ✔
 >
-> - Primeiros passos Dev. Web 💬
+> Primeiros passos Dev. Web ✔
+> || Desafio Dev. Web JQuery 💬
 >
-Introdução HTML5 e CSS3
+> Introdução HTML5 e CSS3 
 
 Bootstrap
 
