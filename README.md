@@ -20,7 +20,7 @@
 > Criação repositório DIO - IMPULSO ✔
 >
 > Primeiros passos Dev. Web ✔
-> || Desafio Dev. Web JQuery ✔
+> || [Desafio Dev. Web JQuery](https://github.com/KelwinFrederik/DioImpulso/tree/main/PraticaPrimeirosPassosDevWeb) ✔
 >
 > - Introdução HTML5 e CSS3 💬
 
