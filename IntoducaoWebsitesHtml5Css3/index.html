@@ -4,34 +4,35 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css"/>
     <title> Kelwin Alves </title>
 </head>
 <body>
-    <img alt="Foto kelwin e Davi" src="../Assets/KelwinAlves.jpeg" Width="200px"/>
-    <header>
-        <a href="https://www.linkedin.com/in/kelwin-frederik-alves/" target="_blank"> 
-            Kelwin Frederik Alves 
-        </a>
+    <header id="titleHeader">
+        <section id="headerSection">
+            <img id="fotoPerfil" alt="Foto kelwin e Davi" src="../Assets/KelwinAlves.jpeg" Width="200px"/>
+            <a href="https://www.linkedin.com/in/kelwin-frederik-alves/" target="_blank"> 
+                <h1 id="title"> Kelwin Frederik Alves </h1>
+            </a>
+        </section>
     </header>
+    <header id="subtitleHeader"><h2 class="subtitle"> Posts </h2></header>
     <section>
-        <header><h2> Posts </h2></header>
-        <article>
-            <header><h3> First Post </h3></header>
-            <img alt="screen Code Photo" src="../Assets/CodeScreen.jpg" Width="600px"/>
-            <p> 
+        <article class="post">
+            <header><h3 class="posttitle"> First Post </h3></header>
+            <img class="postImage" alt="screen Code Photo" src="../Assets/CodeScreen.webp" Width="auto"/>
+            <p class="postcontent"> 
                 Técnico em Informática e Graduando em Engenharia de Software (7° Período) .
                 <br />
 
                 Experiência em Manutenção de computadores, suporte Infra Interno e desenvolvimento em C# e Angular.
                 inglês técnico.
-                <ul>
+                <ul class="EmojiList">
                     <li>
-                        Tecnologias conhecidas:
-                        Unity, HTML, CSS, JS.
+                        Tecnologias conhecidas: Unity, HTML, CSS, JS.
                     </li>
                     <li>
-                        Com Experiência:
-                        SQLServer, C#, Angular, Visual Studio, Pacote Office, SVN e Git.
+                        Com Experiência: SQLServer, C#, Angular, Visual Studio, Pacote Office, SVN e Git.
                     </li>
                 </ul>
                 
@@ -42,9 +43,9 @@
     </section>
     <footer>
         <ul>
-            <li><a target="_blank" href="mailto:kelwin.frederik@gmail.com"> Email </a></li>
-            <li><a target="_blank" href="https://www.linkedin.com/in/kelwin-frederik-alves/" > linkedin </a></li>
-            <li><a target="_blank" href="https://github.com/KelwinFrederik" > GitHub </a></li>
+            <a target="_blank" href="mailto:kelwin.frederik@gmail.com"><li> Email </li></a>
+            <a target="_blank" href="https://www.linkedin.com/in/kelwin-frederik-alves/" ><li> linkedin </li></a>
+            <a target="_blank" href="https://github.com/KelwinFrederik" > <li>GitHub </li></a>
         </ul>
     </footer>
 </body>
