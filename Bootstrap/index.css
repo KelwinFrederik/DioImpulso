@@ -1,0 +1,28 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: antiquewhite
+}
+
+.About_Us{
+    background-color: #585858;
+    padding: 40px 0;
+}
+
+.partner{
+    background-color: #353535;
+    padding: 40px 0;
+}
+
+.services{
+    background-color: #2b2b2b; 
+    padding: 40px 0;
+}
+
+footer{
+    background-color: #585858;
+    padding: 20px 0;
+}
+
+footer p {
+    margin:0;
+}
