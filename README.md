@@ -22,9 +22,9 @@
 > Primeiros passos Dev. Web ✔
 > || [Desafio Dev. Web JQuery](https://github.com/KelwinFrederik/DioImpulso/tree/main/PraticaPrimeirosPassosDevWeb) ✔
 >
-> - Introdução HTML5 e CSS3 💬
-
-Bootstrap
-
+> [Introdução HTML5 e CSS3](https://github.com/KelwinFrederik/DioImpulso/tree/main/IntoducaoWebsitesHtml5Css3) ✔
+>
+> - Bootstrap 💬
+>
 Recriando interface Netflix
 
