@@ -24,7 +24,7 @@
 >
 > [Introdução HTML5 e CSS3](https://github.com/KelwinFrederik/DioImpulso/tree/main/IntoducaoWebsitesHtml5Css3) ✔
 >
-> - Bootstrap 💬
+> [Bootstrap](https://github.com/KelwinFrederik/DioImpulso/tree/main/Bootstrap) ✔
 >
-Recriando interface Netflix
+> - Recriando interface Netflix 💬
 
