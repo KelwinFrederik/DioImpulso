@@ -1,0 +1,83 @@
+:root{
+    --vermelha: #e40914;
+    --Preta:#141414;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* BÁSICO */
+
+body{
+    background-color: var(--Preta);
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+header .logo{
+    color: var(--vermelha);
+    font-family: 'Arial Black', Times, serif;
+    font-size: 40px;
+    margin-left: 15px;
+}
+
+header nav a{
+    text-decoration: none;
+    color: #AAA;
+    margin-right: 10px;
+}
+
+header nav a:hover{
+    color: #fff;
+}
+
+header .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.button{
+    padding: 5px 8px;
+}
+
+/* PRINCIPAL */
+
+.principal{
+    background: linear-gradient(to top left,#2222228f,var(--Preta),#2222228f);
+
+    padding: 10px 0;
+}
+
+.principal .container{
+    margin: 0 60px;
+    padding: 15px;
+    background: linear-gradient(to top left,#302d2da9,var(--Preta),#302d2da9);
+}
+
+.titulo{
+    font-size: 40px;
+}
+
+#descricaoImagem{
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    align-content: center;
+    justify-content: space-around;
+    padding: 15px 0;
+}
+
+.descricao{
+    width: 70%;
+}
+
+.imagemPodCast{
+    background-image: url("../Assets/MindeSetMentor.jpg");
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+}
