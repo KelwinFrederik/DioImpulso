@@ -1,24 +1,28 @@
 :root{
-    --vermelha: #e40914;
-    --Preta:#141414;
+    --highlight: #e6bc53;
+    --gold: #daa520;
+    --darkGray: #171717b0;
+    --preta:#141414;
 }
 
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    transition: .4s ease-in all;
 }
 
 /* BÁSICO */
 
 body{
-    background-color: var(--Preta);
+    background-color: var(--preta);
     font-family: 'Times New Roman', Times, serif;
     color: white;
+    transition:none;
 }
 
 header .logo{
-    color: var(--vermelha);
+    color: var(--gold);
     font-family: 'Arial Black', Times, serif;
     font-size: 40px;
     margin-left: 15px;
@@ -28,10 +32,12 @@ header nav a{
     text-decoration: none;
     color: #AAA;
     margin-right: 10px;
+    transition: .4s ease all;
 }
 
 header nav a:hover{
-    color: #fff;
+    color: var(--highlight);
+    cursor: pointer;
 }
 
 header .container{
@@ -41,25 +47,49 @@ header .container{
 }
 
 .button{
-    padding: 5px 8px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-transform:uppercase;
+    padding: 15px 35px;
+    background-color: #00000033;
+    border:none;
+    /*border-radius: 10%;*/
+    color: white;
+    font-size:12px;
+    margin: 0 10px;
+    transition: .4s ease all;
 }
 
+.button i{
+    margin-right:8px;
+}
+
+.button:hover{
+    background-color: var(--highlight);
+    cursor: pointer;
+}
 /* PRINCIPAL */
 
 .principal{
-    background: linear-gradient(to top left,#2222228f,var(--Preta),#2222228f);
-
+    background-image: linear-gradient(to top left,#302d2dc4,var(--darkGray),#302d2dc4), url("../Assets/headPhones.jpg");
+    background-position: right;    
+    background-size: cover;
     padding: 10px 0;
+    margin-bottom: 10px;
 }
 
 .principal .container{
-    margin: 0 60px;
+    margin: 0 3%;
     padding: 15px;
-    background: linear-gradient(to top left,#302d2da9,var(--Preta),#302d2da9);
+    background: linear-gradient(to top left,#22222254,var(--darkGray),#22222254);
 }
 
 .titulo{
     font-size: 40px;
+}
+
+.autorPodcast{
+    margin-left: 15px;
+    color: var(--highlight);
 }
 
 #descricaoImagem{
@@ -76,8 +106,41 @@ header .container{
 }
 
 .imagemPodCast{
-    background-image: url("../Assets/MindeSetMentor.jpg");
+    background-image: url("../Assets/BombCast.jpg");
     background-size: cover;
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
+
+    box-shadow: 1px 1px 4px 1px var(--highlight);
+}
+
+ 
+.item > p {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.item > img, .item > p:hover{
+    color: var(--highlight);
+    cursor: pointer;
+}
+
+/* MEDIA QUERYs MAX*/
+@media screen and (max-width:700px) {
+    header .container{
+        flex-direction: column;
+    }
+
+    .button{
+        width: 300px;
+        margin-top: 10px;
+    }
+}
+
+
+/* MEDIA QUERYs MIN*/
+@media screen and (min-width:1024px) {
+    .descricao{
+        width: 55%;
+    }
+    
 }
