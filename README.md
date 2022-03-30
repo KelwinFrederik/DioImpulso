@@ -26,7 +26,7 @@
 >
 > [Bootstrap](https://github.com/KelwinFrederik/DioImpulso/tree/main/Bootstrap) ✔
 >
-> Recriando interface Netflix ✔
+> [Recriando interface Netflix](https://github.com/KelwinFrederik/DioImpulso/tree/main/CloneNetflix) ✔
 > 
 > Coleções ✔
 >
