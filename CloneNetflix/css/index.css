@@ -32,7 +32,7 @@ header nav a{
     text-decoration: none;
     color: #AAA;
     margin-right: 10px;
-    transition: .4s ease all;
+    transition: .3s ease all;
 }
 
 header nav a:hover{
@@ -67,6 +67,7 @@ header .container{
     background-color: var(--highlight);
     cursor: pointer;
 }
+
 /* PRINCIPAL */
 
 .principal{
@@ -75,6 +76,7 @@ header .container{
     background-size: cover;
     padding: 10px 0;
     margin-bottom: 10px;
+    border-bottom: solid #969696 1px;
 }
 
 .principal .container{
@@ -114,20 +116,37 @@ header .container{
     box-shadow: 1px 1px 4px 1px var(--highlight);
 }
 
- 
-.item > p {
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+.owlItemTemplate{
+    width: 95%;
+    height: 100%;
+    margin: auto;
 }
 
-.item > img, .item > p:hover{
+.owlItemTemplate:hover{
     color: var(--highlight);
+    background-color: #ffffff23;
     cursor: pointer;
+}
+
+.item .owlItemTemplate p {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin:3% 2%;
+    text-align: center;
+    font-size: large;
+}
+
+.sectionTitulo{
+    margin: 15px;
+    margin-bottom: 10px ;
+    border-bottom: solid var(--highlight) 2px;
+    font-size: larger;
 }
 
 /* MEDIA QUERYs MAX*/
 @media screen and (max-width:700px) {
     header .container{
         flex-direction: column;
+        margin-bottom: 10px;
     }
 
     .button{
