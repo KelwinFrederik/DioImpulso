@@ -26,5 +26,11 @@
 >
 > [Bootstrap](https://github.com/KelwinFrederik/DioImpulso/tree/main/Bootstrap) ✔
 >
-> - Recriando interface Netflix 💬
+> Recriando interface Netflix ✔
+> 
+> Coleções ✔
+>
+> - Debugging e Error Handling 💬
+
+
 
