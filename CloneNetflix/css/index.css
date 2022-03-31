@@ -85,11 +85,10 @@ header .container{
     background: linear-gradient(to top left,#22222254,var(--darkGray),#22222254);
 }
 
-.titulo{
+#titulo{
     font-size: 40px;
 }
-
-.autorPodcast{
+#autorPodcast{
     margin-left: 15px;
     color: var(--highlight);
 }
@@ -107,7 +106,7 @@ header .container{
     width: 70%;
 }
 
-.imagemPodCast{
+#imagemPodCast{
     background-image: url("../Assets/BombCast.jpg");
     background-size: cover;
     width: 150px;
