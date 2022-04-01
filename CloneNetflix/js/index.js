@@ -250,7 +250,6 @@ $( document ).ready(function() {
     });
     
     $('.owlItemTemplate').on('click', (event) => { 
-        console.log(event.currentTarget.innerText);
         setHowMainPodcast(podcast.find( x => event.currentTarget.innerText.includes(x.titulo))) 
     });
 });
