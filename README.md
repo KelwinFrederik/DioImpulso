@@ -30,7 +30,22 @@
 > 
 > Coleções ✔
 >
-> - Debugging e Error Handling 💬
+> Debugging e Error Handling ✔
+> 
+> Javascript Assíncrono ✔
+> 
+> Orientação a objetos ✔
+> 
+> Map, Filter e Reduce ✔
+> 
+> Manipulando o DOM c/ JavaScript ✔
+> 
+> Resolvendo desafios ✔
+> 
+> Desafio Iniciante ✔
+>  
+> Introdução ao ReactJS 💬
+
 
 
 
