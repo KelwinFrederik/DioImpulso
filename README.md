@@ -44,7 +44,7 @@
 > 
 > Desafio Iniciante ✔
 >  
-> Introdução ao ReactJS 💬
+> Introdução ao ReactJS ⛔
 > 
 > Desenvolvimento de aplicações para internet com ReactJS
 > 
@@ -62,7 +62,7 @@
 > 
 > SQL SERVER - Criando suas primeiras consultas ✔
 > 
-> Modelando um banco de dados na prática com SQL SERVER
+> Modelando um banco de dados na prática com SQL SERVER 💬
 > 
 > SQL Server: Boas práticas em bancos relacionais
 > 
