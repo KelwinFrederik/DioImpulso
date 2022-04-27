@@ -45,7 +45,57 @@
 > Desafio Iniciante ✔
 >  
 > Introdução ao ReactJS 💬
-
-
-
-
+> 
+> Desenvolvimento de aplicações para internet com ReactJS
+> 
+> Práticas avançadas em projetos com ReactJS
+> 
+> Desafios Impulso Intermediario - JavaScript ✔
+> 
+> Introdução a Redux com ReactJS
+> 
+> Trabalhando com States & Effects no ReactJs
+> 
+> Introdução aos React Hooks
+> 
+> Criando o front-end com ReactJS
+> 
+> SQL SERVER - Criando suas primeiras consultas ✔
+> 
+> Modelando um banco de dados na prática com SQL SERVER
+> 
+> SQL Server: Boas práticas em bancos relacionais
+> 
+> Introdução ao Ecossistema .NET e Documentação ✔
+> 
+> Criando o ambiente de  desenvolvimento
+> 
+> IDE Instalação e Configuração (Visual Studio Code)
+> 
+> Primeiros passos com .NET
+> 
+> Trabalhando com Tipos de Referência e Valor em C#
+> 
+> Desafios Impulso Iniciante - C# ✔
+> 
+> Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#
+> 
+> Introdução ao HTTP/HTTPS
+> 
+> Trabalhando com Arquivos e Streams em C#
+> 
+> Construtores, Propriedades, Delegates e Eventos em .NET
+> 
+> Programando com Orientação a Objeto com C#
+> 
+> Fundamentos de Coleções e LINQ com .NET
+> 
+> Tratamento de Erro em C# com Exceptions
+> 
+> Desenvolvimento de aplicações com .NET
+> 
+> Configuração da arquitetura back-end com .NET Core
+> 
+> Criando um APP simples de cadastro de séries em .NET
+> 
+> Desafios Impulso Intermediários - C#
