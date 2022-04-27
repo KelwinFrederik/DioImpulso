@@ -19,8 +19,7 @@
 >
 > Criação repositório DIO - IMPULSO ✔
 >
-> Primeiros passos Dev. Web ✔
-> || [Desafio Dev. Web JQuery](https://github.com/KelwinFrederik/DioImpulso/tree/main/PraticaPrimeirosPassosDevWeb) ✔
+> Primeiros passos Dev. Web | [Desafio JQuery](https://github.com/KelwinFrederik/DioImpulso/tree/main/PraticaPrimeirosPassosDevWeb) ✔
 >
 > [Introdução HTML5 e CSS3](https://github.com/KelwinFrederik/DioImpulso/tree/main/IntoducaoWebsitesHtml5Css3) ✔
 >
@@ -62,15 +61,15 @@
 > 
 > SQL SERVER - Criando suas primeiras consultas ✔
 > 
-> [Modelando um banco de dados na prática com SQL SERVER](https://github.com/KelwinFrederik/DioImpulso/tree/main/PraticaPrimeirosPassosDevWeb) 💬
+> [Modelando um banco de dados na prática com SQL SERVER](https://github.com/KelwinFrederik/DioImpulso/tree/main/PraticaPrimeirosPassosDevWeb) ✔
 > 
-> SQL Server: Boas práticas em bancos relacionais
+> SQL Server: Boas práticas em bancos relacionais ✔
 > 
 > Introdução ao Ecossistema .NET e Documentação ✔
 > 
-> Criando o ambiente de  desenvolvimento
+> Criando o ambiente de  desenvolvimento ✔
 > 
-> IDE Instalação e Configuração (Visual Studio Code)
+> IDE Instalação e Configuração (Visual Studio Code) 💬
 > 
 > Primeiros passos com .NET
 > 
