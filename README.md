@@ -62,7 +62,7 @@
 > 
 > SQL SERVER - Criando suas primeiras consultas ✔
 > 
-> Modelando um banco de dados na prática com SQL SERVER 💬
+> [Modelando um banco de dados na prática com SQL SERVER](https://github.com/KelwinFrederik/DioImpulso/tree/main/PraticaPrimeirosPassosDevWeb) 💬
 > 
 > SQL Server: Boas práticas em bancos relacionais
 > 
@@ -98,4 +98,4 @@
 > 
 > Criando um APP simples de cadastro de séries em .NET
 > 
-> Desafios Impulso Intermediários - C#
+> Desafios Impulso Intermediários - C# ✔
