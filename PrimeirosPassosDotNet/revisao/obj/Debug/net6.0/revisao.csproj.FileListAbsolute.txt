@@ -1,0 +1,15 @@
+C:\SyncMega\Dio\impulso\DesfioGit\DioImpulso\PrimeirosPassosDotNet\revisao\bin\Debug\net6.0\revisao.exe
+C:\SyncMega\Dio\impulso\DesfioGit\DioImpulso\PrimeirosPassosDotNet\revisao\bin\Debug\net6.0\revisao.deps.json
+C:\SyncMega\Dio\impulso\DesfioGit\DioImpulso\PrimeirosPassosDotNet\revisao\bin\Debug\net6.0\revisao.runtimeconfig.json
+C:\SyncMega\Dio\impulso\DesfioGit\DioImpulso\PrimeirosPassosDotNet\revisao\bin\Debug\net6.0\revisao.dll
+C:\SyncMega\Dio\impulso\DesfioGit\DioImpulso\PrimeirosPassosDotNet\revisao\bin\Debug\net6.0\revisao.pdb
+C:\SyncMega\Dio\impulso\DesfioGit\DioImpulso\PrimeirosPassosDotNet\revisao\obj\Debug\net6.0\revisao.csproj.AssemblyReference.cache
+C:\SyncMega\Dio\impulso\DesfioGit\DioImpulso\PrimeirosPassosDotNet\revisao\obj\Debug\net6.0\revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\SyncMega\Dio\impulso\DesfioGit\DioImpulso\PrimeirosPassosDotNet\revisao\obj\Debug\net6.0\revisao.AssemblyInfoInputs.cache
+C:\SyncMega\Dio\impulso\DesfioGit\DioImpulso\PrimeirosPassosDotNet\revisao\obj\Debug\net6.0\revisao.AssemblyInfo.cs
+C:\SyncMega\Dio\impulso\DesfioGit\DioImpulso\PrimeirosPassosDotNet\revisao\obj\Debug\net6.0\revisao.csproj.CoreCompileInputs.cache
+C:\SyncMega\Dio\impulso\DesfioGit\DioImpulso\PrimeirosPassosDotNet\revisao\obj\Debug\net6.0\revisao.dll
+C:\SyncMega\Dio\impulso\DesfioGit\DioImpulso\PrimeirosPassosDotNet\revisao\obj\Debug\net6.0\refint\revisao.dll
+C:\SyncMega\Dio\impulso\DesfioGit\DioImpulso\PrimeirosPassosDotNet\revisao\obj\Debug\net6.0\revisao.pdb
+C:\SyncMega\Dio\impulso\DesfioGit\DioImpulso\PrimeirosPassosDotNet\revisao\obj\Debug\net6.0\revisao.genruntimeconfig.cache
+C:\SyncMega\Dio\impulso\DesfioGit\DioImpulso\PrimeirosPassosDotNet\revisao\obj\Debug\net6.0\ref\revisao.dll
