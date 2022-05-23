@@ -1,0 +1,18 @@
+(
+  NickName, Level
+  HPMax, HPCurrent,
+  MPMax, MPCurrent, 
+  Class
+)
+=-= Characters =-=
+	> Heros (BaseDamage, Items)
+	> Enemies (Difficult)
+
+(
+  Name, Area
+  Damage
+)
+=-= Items =-=
+	> Weapon (Range, Load)
+	> Traps  (Armed, 
+ 

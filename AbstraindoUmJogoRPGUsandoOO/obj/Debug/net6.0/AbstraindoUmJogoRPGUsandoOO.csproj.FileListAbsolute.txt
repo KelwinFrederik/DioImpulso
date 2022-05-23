@@ -1,0 +1,15 @@
+C:\SyncMega\Dio\impulso\DesfioGit\DioImpulso\AbstraindoUmJogoRPGUsandoOO\obj\Debug\net6.0\AbstraindoUmJogoRPGUsandoOO.csproj.AssemblyReference.cache
+C:\SyncMega\Dio\impulso\DesfioGit\DioImpulso\AbstraindoUmJogoRPGUsandoOO\obj\Debug\net6.0\AbstraindoUmJogoRPGUsandoOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\SyncMega\Dio\impulso\DesfioGit\DioImpulso\AbstraindoUmJogoRPGUsandoOO\obj\Debug\net6.0\AbstraindoUmJogoRPGUsandoOO.AssemblyInfoInputs.cache
+C:\SyncMega\Dio\impulso\DesfioGit\DioImpulso\AbstraindoUmJogoRPGUsandoOO\obj\Debug\net6.0\AbstraindoUmJogoRPGUsandoOO.AssemblyInfo.cs
+C:\SyncMega\Dio\impulso\DesfioGit\DioImpulso\AbstraindoUmJogoRPGUsandoOO\obj\Debug\net6.0\AbstraindoUmJogoRPGUsandoOO.csproj.CoreCompileInputs.cache
+C:\SyncMega\Dio\impulso\DesfioGit\DioImpulso\AbstraindoUmJogoRPGUsandoOO\bin\Debug\net6.0\AbstraindoUmJogoRPGUsandoOO.exe
+C:\SyncMega\Dio\impulso\DesfioGit\DioImpulso\AbstraindoUmJogoRPGUsandoOO\bin\Debug\net6.0\AbstraindoUmJogoRPGUsandoOO.deps.json
+C:\SyncMega\Dio\impulso\DesfioGit\DioImpulso\AbstraindoUmJogoRPGUsandoOO\bin\Debug\net6.0\AbstraindoUmJogoRPGUsandoOO.runtimeconfig.json
+C:\SyncMega\Dio\impulso\DesfioGit\DioImpulso\AbstraindoUmJogoRPGUsandoOO\bin\Debug\net6.0\AbstraindoUmJogoRPGUsandoOO.dll
+C:\SyncMega\Dio\impulso\DesfioGit\DioImpulso\AbstraindoUmJogoRPGUsandoOO\bin\Debug\net6.0\AbstraindoUmJogoRPGUsandoOO.pdb
+C:\SyncMega\Dio\impulso\DesfioGit\DioImpulso\AbstraindoUmJogoRPGUsandoOO\obj\Debug\net6.0\AbstraindoUmJogoRPGUsandoOO.dll
+C:\SyncMega\Dio\impulso\DesfioGit\DioImpulso\AbstraindoUmJogoRPGUsandoOO\obj\Debug\net6.0\refint\AbstraindoUmJogoRPGUsandoOO.dll
+C:\SyncMega\Dio\impulso\DesfioGit\DioImpulso\AbstraindoUmJogoRPGUsandoOO\obj\Debug\net6.0\AbstraindoUmJogoRPGUsandoOO.pdb
+C:\SyncMega\Dio\impulso\DesfioGit\DioImpulso\AbstraindoUmJogoRPGUsandoOO\obj\Debug\net6.0\AbstraindoUmJogoRPGUsandoOO.genruntimeconfig.cache
+C:\SyncMega\Dio\impulso\DesfioGit\DioImpulso\AbstraindoUmJogoRPGUsandoOO\obj\Debug\net6.0\ref\AbstraindoUmJogoRPGUsandoOO.dll
